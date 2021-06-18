@@ -12,6 +12,7 @@ Body:
 [Details of the problem]
 
 ## Info for reproduction
+
 - Last 4 letters of address: [0Aba]
 - Pro Status: [Pro]/[Non-Pro]
 ```
