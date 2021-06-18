@@ -10,7 +10,9 @@ Title: [Chain] [Protocol] [Some more info]
 Body:
 
 [Details of the problem]
-- Last 4 letters of address to reproduce: [0Aba]
+
+## Info for reproduction
+- Last 4 letters of address: [0Aba]
 - Pro Status: [Pro]/[Non-Pro]
 ```
 
@@ -23,6 +25,8 @@ Body:
 
 I have deposited in the ETH-BTC pool. And this pool doesn't show up in the portfolio
 
-- Last 4 letters of address to reproduce: 0Aba
+## Info for reproduction
+
+- Last 4 letters of address: 0Aba
 - Pro Status: Pro
 ```
